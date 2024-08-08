@@ -19,7 +19,7 @@ Desenvolver uma API REST que permita realizar operações CRUD (Criar, Ler, Atua
 2. ## Tecnologias Utilizadas
 
 - **Linguagem de Programação:** Node.js, TypeScript
-- **Banco de Dados:** MongoDB
+- **Banco de Dados:** MongoDB Atlas
 - **Ferramentas de Teste:** Insomnia
 - **ORM:** Prisma
 
